@@ -1,0 +1,18 @@
+                          Issues and Add feature for the File
+
+     1.   Add  Rankie Scale  conversion from other Scales.
+     2.   Temp conversion from farenheit to celcius taking input twice .
+     3.   Input other then the choice provided , program not termination with an error message .      
+     4. From Kelvin to farenheit coversion, getting wrong output.
+     5. Getting same output for two Ferenheit to other scales conversion. 
+
+
+
+
+
+
+
+
+
+
+
